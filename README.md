@@ -26,12 +26,8 @@ An integrated mechanistic framework proposes three interactions involving SASP s
  * Dataset: 378 publications
  * Export date: July 19, 2026
  * Critical synthesis: 60 publications (Dimensions, PubMed, and Google Scholar)
- *  * Critical synthesis: 60 publications (Dimensions, PubMed, and Google Scholar)
 
-
-*Tools: Bibliometrix (R) and VOSviewer 1.6.20
-
-## 3. References
+## 3. Tools
 
 * [**Bibliometix**](https://www.bibliometrix.org/home/) - used for multiple bibliometric analyses.
 * [**VOSviewer**]([https://pubmed.ncbi.nlm.nih.gov/](https://www.vosviewer.com/) - used for multiple bibliometric analyses.
