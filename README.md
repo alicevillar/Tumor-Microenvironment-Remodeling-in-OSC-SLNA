@@ -20,15 +20,14 @@ An integrated mechanistic framework proposes three interactions involving SASP s
 
 ## 2. Data and Methods 
  <br> 
-*Database: Dimensions
 
-*Publication period: January 2020 – July 2026
+ * Database: Dimensions
+ * Publication period: January 2020 – July 2026
+ * Dataset: 378 publications
+ * Export date: July 19, 2026
+ * Critical synthesis: 60 publications (Dimensions, PubMed, and Google Scholar)
+ *  * Critical synthesis: 60 publications (Dimensions, PubMed, and Google Scholar)
 
-*Dataset: 378 publications
-
-*Export date: July 19, 2026
-
-*Critical synthesis: 60 publications (Dimensions, PubMed, and Google Scholar)
 
 *Tools: Bibliometrix (R) and VOSviewer 1.6.20
 
