@@ -13,9 +13,7 @@
 ## 1. Overview 
  <br> 
 This study employs a Bibliometric-Assisted Critical Review (BACR) to investigate how biological aging and tumor-driven mechanisms contribute to tumor microenvironment (TME) remodeling in oral squamous cell carcinoma (OSCC).
-
 Bibliometric analysis of 378 publications from Dimensions identified four major research domains, guiding a critical synthesis of 60 studies. The review integrates evidence on cellular senescence, immunosenescence, stromal remodeling, metabolic reprogramming, and immune regulation.
-
 An integrated mechanistic framework proposes three interactions involving SASP signaling, cancer-associated fibroblast metabolism, age-associated immune dysfunction, and immune-checkpoint regulation. These interactions require further experimental validation.<br>  
 
 ## 2. Data and Methods 
