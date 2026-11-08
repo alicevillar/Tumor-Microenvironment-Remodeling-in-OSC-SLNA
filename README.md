@@ -30,7 +30,7 @@ An integrated mechanistic framework proposes three interactions involving SASP s
 ## 3. Tools
 
 * [**Bibliometix**](https://www.bibliometrix.org/home/) - used for multiple bibliometric analyses.
-* [**VOSviewer**](https://pubmed.ncbi.nlm.nih.gov/](https://www.vosviewer.com/) - used for multiple bibliometric analyses.
+* [**VOSviewer**](https://www.vosviewer.com/) - used for multiple bibliometric analyses.
 * [**Dimensions**](https://www.dimensions.ai/) - used to collect academic documents.
 * [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/) - used to collect academic documents.
  
