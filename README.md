@@ -7,10 +7,6 @@
 >Official repository for the research article "Aging and Tumor Microenvironment Remodeling in Oral Squamous Cell Carcinoma: An Integrated Mechanistic Framework."
 
 <h1>Table of Contents</h1>
- 
-<!-- TOC -->
-- [1. Overview](#1-overview)
-- [2. Tools](#2-project-files) 
    
 <!-- /TOC -->
  
