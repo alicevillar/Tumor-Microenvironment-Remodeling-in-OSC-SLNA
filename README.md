@@ -1,10 +1,10 @@
  
 
-# The relationship between periodontal disease and cancer: Insights from a Systematic Literature Network Analysis
+# Aging and Tumor Microenvironment Remodeling in Oral Squamous Cell Carcinoma: An Integrated Mechanistic Framework
 
  <br> 
  
->Welcome to the Official repository of the paper: "Tumor Microenvironment Remodeling in Oral Squamous Cell Carcinoma: A Systematic Literature Network Analysis" 
+>Official repository for the research article "Aging and Tumor Microenvironment Remodeling in Oral Squamous Cell Carcinoma: An Integrated Mechanistic Framework."
 
 <h1>Table of Contents</h1>
  
@@ -16,14 +16,33 @@
  
 ## 1. Overview 
  <br> 
-Oral squamous cell carcinoma (OSCC) develops within a complex tumor microenvironment (TME) shaped by immune, stromal, metabolic, and microbial components. Although age-related biological changes influence these systems, evidence across these interconnected domains remains fragmented, limiting an integrated understanding of TME remodeling. To address this gap, we employed a Systematic Literature Network Analysis (SLNA) to map the intellectual structure of the field and integrate the major biological processes involved. Bibliometric analysis of 378 publications retrieved from Dimensions identified four interconnected thematic domains. This mapping, together with the identification of influential publications, guided the systematic review and final qualitative synthesis of 60 peer-reviewed studies. Integration of the bibliometric mapping with the qualitative synthesis revealed a research landscape structured around processes linking age-related biological changes to tumor-driven remodeling. Cellular senescence and the senescence-associated secretory phenotype (SASP), immune dysfunction, stromal remodeling, metabolic reprogramming, and the microbiota emerged as interconnected components of this process, with implications for immune escape, tumor progression, and metastatic niche formation. By integrating these lines of evidence, this SLNA provides a more comprehensive understanding of TME remodeling and its potential implications for prognostic stratification and the development of therapeutic strategies, while highlighting opportunities for longitudinal, spatial, and multi-omics studies and for prospective clinical validation of the biomarkers and mechanisms identified.
-<br>  
+This study employs a Bibliometric-Assisted Critical Review (BACR) to investigate how biological aging and tumor-driven mechanisms contribute to tumor microenvironment (TME) remodeling in oral squamous cell carcinoma (OSCC).
 
-## 2. References
+Bibliometric analysis of 378 publications from Dimensions identified four major research domains, guiding a critical synthesis of 60 studies. The review integrates evidence on cellular senescence, immunosenescence, stromal remodeling, metabolic reprogramming, and immune regulation.
+
+An integrated mechanistic framework proposes three interactions involving SASP signaling, cancer-associated fibroblast metabolism, age-associated immune dysfunction, and immune-checkpoint regulation. These interactions require further experimental validation.<br>  
+
+## 2. Data and Methods 
+ <br> 
+*Database: Dimensions
+
+*Publication period: January 2020 – July 2026
+
+*Dataset: 378 publications
+
+*Export date: July 19, 2026
+
+*Critical synthesis: 60 publications (Dimensions, PubMed, and Google Scholar)
+
+*Tools: Bibliometrix (R) and VOSviewer 1.6.20
+
+## 3. References
 
 * [**Bibliometix**](https://www.bibliometrix.org/home/) - used for multiple bibliometric analyses.
+* [**VOSviewer**]([https://pubmed.ncbi.nlm.nih.gov/](https://www.vosviewer.com/) - used for multiple bibliometric analyses.
 * [**Dimensions**](https://www.dimensions.ai/) - used to collect academic documents.
 * [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/) - used to collect academic documents.
+ 
 
   
  
